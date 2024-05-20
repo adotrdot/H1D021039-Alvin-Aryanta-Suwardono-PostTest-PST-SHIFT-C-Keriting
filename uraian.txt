@@ -1,0 +1,35 @@
+Nama    : Alvin Aryanta Suwardono
+NIM     : H1D021039
+Shift   : C
+Paket   : Keriting
+
+
+Jawaban Uraian Post Test
+Praktikum Pemrograman Sistem Tertanam 2024
+
+
+1.
+Servo digunakan sebagai aktuator atau penggerak. Biasanya digunakan pada sendi robot.
+Servo digerakkan berdasarkan sudut.
+
+
+2.
+Sensor ultrasonik adalah sensor untuk mengukur jarak yang bekerja dengan cara memancarkan
+gelombang ultrasonik, kemudian menghitung jaraknya berdasarkan waktu gelombang tersebut memantul
+dan kembali ditangkap sensor dengan rumus S = V/T.
+
+
+3.
+- Lampu jalan yang menyala secara otomatis ketika sore-malam.
+- Smart Home, misalnya lampu rumah yang dapat dikontrol dengan handphone, atau secara otomatis berubah dari sinar putih menjadi kuning ketika sore-malam.
+- Robot Line Follower
+- Alat penyiram tanaman otomatis secara berkala
+- Alat monitoring tegangan/daya rumah dan bangunan yang terhubung dengan handphone
+- 3D Printer
+
+
+4.
+Sebuah alat bantu bagi orang tuna netra yang mendeskripsikan apa yang ada di depannya.
+Bekerja menggunakan Raspberry Pi, kamera, API Gemini, push button, dan bluetooth headset.
+Ketika push button ditekan, Raspberry Pi akan menangkap gambar dari kamera, kemudian mengirimkan gambar tersebut
+ke AI Gemini untuk kemudian dibuatkan teks deskripsinya. Hasil deskripsi akan disampaikan melalui suara.
