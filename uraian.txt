@@ -16,7 +16,7 @@ Servo digerakkan berdasarkan sudut.
 2.
 Sensor ultrasonik adalah sensor untuk mengukur jarak yang bekerja dengan cara memancarkan
 gelombang ultrasonik, kemudian menghitung jaraknya berdasarkan waktu gelombang tersebut memantul
-dan kembali ditangkap sensor dengan rumus S = V/T.
+dan kembali ditangkap sensor dengan rumus S = V * T.
 
 
 3.
